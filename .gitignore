@@ -1,0 +1,16 @@
+# ignore target
+/bin/
+/target/
+
+# ignore libs
+/lib/
+/*.jar
+
+# ignore generic configs
+.classpath
+.project
+*.iml
+MANIFEST
+
+# ignore IntelliJ
+/.idea/
