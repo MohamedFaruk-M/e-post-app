@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nfs.academy</groupId>
-    <artifactId>epost-service</artifactId>
+    <artifactId>epost-app</artifactId>
     <version>1.0</version>
 
     <properties>
